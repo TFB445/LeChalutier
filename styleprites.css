@@ -18,6 +18,19 @@ header {
     padding: 10px 0;
 }
 
+h7 {
+    font-size: 50px;
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 44%;
+}
+
+#trailer { position: relative;
+width: 40%;
+height: 400px;
+margin-left: 30%;
+margin-top: 20%;}
+
 h1 {
     
     text-align: center;
