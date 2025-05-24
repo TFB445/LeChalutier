@@ -159,6 +159,46 @@ h2 {
     width: auto;
 }
 
+#carotte
+{   
+    margin-top: 0%;
+    margin-right: 40px;
+    height: 2100px;
+    width: 1500px;
+}
+
+
+#poivronjaune
+{
+    margin-left: 70%;
+    margin-right: 40px;
+    width: 440px;
+    height: 440px;
+
+}
+
+#lemonshop
+{
+    margin-left: 30ox;
+    width: 49%;
+}
+
+#jaquette
+{
+    margin-top: auto;
+    text-align: center;
+    width: 49%;
+}
+
+#teufri
+{   
+    margin-top: 0%;
+    margin-right: 40px;
+    height: 1000px;
+    width: 1500px;
+}
+
+
 #chal2
 {
     margin-top: 5%;
