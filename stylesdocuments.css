@@ -41,6 +41,14 @@ h3
     flex-grow: 1;
 }
 
+h4
+{
+    text-align: center;
+    margin-top: 10%;
+    flex-grow: 1;
+}
+
+
 
 #cdc
 {
@@ -123,6 +131,49 @@ h3
 #defense3:hover
 {
     background: #144f6b;
+    transform: scale(1.05);
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+#manualinstall
+{
+    margin-top: 15%;
+    margin-left: 32%;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    background: #1c698c;
+    padding: 10% 10%;
+    border: none;
+    border-radius: 30px;  
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
+}
+#manualinstall:hover
+{
+   background: #144f6b;
+    transform: scale(1.05);
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+}
+#manualuse
+{
+    margin-top: 15%;
+    margin-left: 32%;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    background: #1c698c;
+    padding: 10% 10%;
+    border: none;
+    border-radius: 30px;  
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
+}
+#manualuse:hover
+{
+   background: #144f6b;
     transform: scale(1.05);
     box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
 }
@@ -231,3 +282,4 @@ footer {
         width: 100%; 
     }
 }
+
